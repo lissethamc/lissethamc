@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisseth</h1>
-<h3 align="center">A passionate computer engineer student in Guadalajara</h3>
+<h3 align="center">A passionate computer engineer student in Guadalajara, Jalisco, Mexico</h3>
 
 - 🌱 I’m currently learning **React Native**
 

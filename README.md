@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lis.seth2k16@gmail.com**
 
-- 📄 Know about my experiences [my CV :)](https://drive.google.com/file/d/1kMQQO7VPvaW65JO4ZYNgi7bCX43UhHzv/view?usp=sharing)
+- 📄 Know about my experiences [my CV :)](https://drive.google.com/file/d/1k9RyZMtbQnEHpzloepjxDNWfRbAbLOUL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

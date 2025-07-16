@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">A passionate Computer Engineer</h3>
+<h3 align="center">A recient graduate Computer Engineer</h3>
 
-- 🔭 I’m currently working on **Java projects**
-
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Java and Kotlin**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

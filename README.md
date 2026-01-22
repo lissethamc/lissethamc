@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">A recient graduate Computer Engineer</h3>
+<h3 align="center">A recent graduate Computer Engineer</h3>
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
